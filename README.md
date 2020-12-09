@@ -1,1 +1,2 @@
-# repository Zubkov-Ilya
+# repository
+Это мой первый учебный репозиторий
